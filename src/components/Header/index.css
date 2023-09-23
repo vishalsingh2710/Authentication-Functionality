@@ -1,0 +1,13 @@
+.header-container {
+  font-family: 'Robot';
+}
+
+.nav-menu {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+}
+
+.nav-link {
+  margin-right: 10px;
+}
